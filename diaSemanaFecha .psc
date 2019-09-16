@@ -142,6 +142,8 @@ Funcion OK <- dayOk(day,month,year)
 			De Otro Modo:
 				OK=Verdadero;	
 		Fin Segun
+	SiNo
+		OK=Falso;
 	FinSi
 FinFuncion
 
